@@ -1,2 +1,2 @@
-# htmaths.github.io
+# Htmaths
 Data Science and AI
